@@ -7,7 +7,9 @@ function addNumbers(a,b){
 변경할 영여긍ㄹ 드래그해서 선택한 후 Ctrl + / 로 질문창을 열어서 수정
 // 두 수를 뺴는 함수
 function subtractNumbers(a,b){
-    return 
+    return
+}
+
 // tab으로 선택, esc로 자동완성 취소'
 //Ctrl + Shift + Alt +L로 질문창을 엽니다.
 // 질문을 이어서 연속해서 할 수 있습ㄴ디ㅏ. -> 설명 요구에 좋습니다.
